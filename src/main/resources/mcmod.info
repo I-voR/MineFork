@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "Mineport",
+        "name": "Mineport",
+        "description": "A Minecraft mod series aiming to port functionalities from newer versions to version 1.12.2",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/I-voR/Mineport",
+        "updateUrl": "",
+        "authorList": ["I-voR"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
